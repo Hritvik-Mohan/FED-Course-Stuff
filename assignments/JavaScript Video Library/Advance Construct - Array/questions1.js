@@ -1,3 +1,13 @@
+/*
+Q.  Given an array A, where only one element can have single occurrence while 
+    the other will have two occurrence. You have to find out the element 
+    having a single occurrence.
+    
+    Input: [ 1, 2, 1, 2, 5, 4, 5, 6, 7, 7, 6 ]
+    
+    Output:4
+*/
+
 const arr = [1,1,2,2,2,3,3,6,6,3,3,4,4,4,4,4,9]
 
 // key -> numbers

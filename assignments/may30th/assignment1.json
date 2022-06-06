@@ -1,0 +1,174 @@
+{
+    "showroom": [
+        {
+            "brand": "BMW",
+            "model": {
+                "X1": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "X3": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "X5": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "X6": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "Z4": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                }
+        }
+        },
+        {
+            "brand": "Audi",
+            "model": {
+                "A1": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "A3": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "A4": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "A5": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "A6": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                }
+            }
+        },
+        {
+            "brand": "Mercedes",
+            "model": {
+                "C-Class": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "E-Class": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "S-Class":  {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "SL-Class": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                },
+                "SLK-Class": {
+                    "price": "Rs. 1.5 Cr",
+                    "color": "White",
+                    "mileage": "10.2 Lakhs",
+                    "fuelType": "Petrol",
+                    "transmission": "Automatic",
+                    "owner": "Soumya",
+                    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/47/bmw-1313343_960_720.jpg"
+                }
+            }
+        },
+        {
+            "brand": "Volkswagen",
+            "model": [
+                "Golf",
+                "Passat",
+                "Tiguan",
+                "Touareg",
+                "Touareg 2"
+            ]
+        },
+        {
+            "brand": "Volvo",
+            "model": [
+                "C30",
+                "C70",
+                "S40",
+                "S60",
+                "S80"
+            ]
+        }
+    ]
+}

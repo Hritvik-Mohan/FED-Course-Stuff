@@ -25,4 +25,3 @@ palindrome('Star Wars');
 palindrome('2,3,4,3,2');
 
 palindrome('7,10,7,8,9');
-

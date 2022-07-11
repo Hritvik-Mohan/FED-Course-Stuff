@@ -14,3 +14,11 @@
 
 
 
+function solve(A, B, C) {
+    return (C + A - 1) % B;
+}
+
+A = 8;
+B = 5;
+C = 2;
+console.log(solve(A,B,C));

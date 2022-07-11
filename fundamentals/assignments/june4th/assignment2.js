@@ -7,3 +7,6 @@ function fact(n){
 }
 
 console.log(fact(5));
+
+// Time Complexity: O(n)
+// Space Complexity: O(N)
